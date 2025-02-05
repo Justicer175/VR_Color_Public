@@ -15,5 +15,3 @@ This project combines engaging gameplay with functional diagnostics, offering a 
 ![com uniri colorthename2-20250205-114653](https://github.com/user-attachments/assets/9a0ad31c-bf9f-4e51-a975-f74121e7f0b7)
 
 ![com uniri colorthename2-20250205-114618](https://github.com/user-attachments/assets/cd13a697-c4f5-456f-89dc-722302d87d6c)
-
-![com uniri colorthename2-20250205-114718](https://github.com/user-attachments/assets/2c8f3de8-4754-46c2-8b05-fc971ac52e4f)
